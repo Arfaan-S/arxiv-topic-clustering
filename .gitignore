@@ -1,0 +1,7 @@
+# Raw dataset and intermediate results (too large for GitHub, recreated by the notebook)
+*.csv
+!figures/*.csv
+data/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
