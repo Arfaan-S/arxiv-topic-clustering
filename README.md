@@ -30,7 +30,7 @@ pip install -r requirements.txt
 jupyter notebook arxiv_topic_clustering.ipynb
 ```
 
-Full runtime is about 45–60 minutes on a standard CPU; the k-selection loop (Section 5.1) takes the longest. All random steps use `SEED = 42`.
+The k-selection loop (Section 5.1) takes the longest. All random steps use `SEED = 42`.
 
 ## Method overview
 
